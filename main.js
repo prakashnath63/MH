@@ -37,8 +37,8 @@ $(document).ready(function(){
     "method": "POST",
     "dataType": "json",
     "contentType": "application/json; charset=utf-8",
-    "headers": {"Api-Access-Key": "ejdVdGxhS3o0VEtYM1BDbVl1MmY=", "Api-Secret-Key":
-    "ekxLRDdtZnkxT1BQT2RqeDlBalJpVEdNeXZkTVl6dFFvQQ==", "Content-Type":
+    "headers": {"Api-Access-Key": "SE5GcWdpWEdrSU5kZ09tSkhEN1k=", "Api-Secret-Key":
+    "eUZwRmVGMnh2SWc0ZHpJZjZBRWJWQXN2WWlEbE15UWxFUQ==", "Content-Type":
     "application/json"},
     
     "data": JSON.stringify({"mode": "WRITE", "device_id": "sc12004", "source": "API",
